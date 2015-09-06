@@ -3,9 +3,10 @@
   <groupId>com.github.gwtmaterialdesign</groupId>
   <artifactId>gwt-material</artifactId>
   <versioning>
+    <release>1.3.3-YOGH</release>
     <versions>
-      <version>1.3.3-SNAPSHOT</version>
+      <version>1.3.3-YOGH</version>
     </versions>
-    <lastUpdated>20150906133207</lastUpdated>
+    <lastUpdated>20150906133310</lastUpdated>
   </versioning>
 </metadata>
